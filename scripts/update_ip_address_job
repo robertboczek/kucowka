@@ -1,0 +1,6 @@
+#!/bin/bash
+
+IP_ADDRESS=`curl -s http://whatismyip.akamai.com`
+
+IP_ADDRESS='76.121.51.231';
+echo '<embed src="swfs/StrobeMediaPlayback.swf" width="480" height="280" quality="high" bgcolor="#000000" name="StrobeMediaPlayback" allowfullscreen="true" pluginspage="http://www.adobe.com/go/getflashplayer" flashvars="src=rtmp://'$IP_ADDRESS':1935/flash/11:admin:ala123&amp;autoHideControlBar=true&streamType=live&autoPlay=true" type="application/x-shockwave-flash">' > /var/www/html/camera_frame.html
