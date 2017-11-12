@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="iso-8859-2" ?>
+<gallery title="Galeria zdjec domu i okolicy" thumbDir="./photos/thumbs/" imageDir="./photos/" random="true">
+	<category name="Dom">
+		<image>
+			<date>28.12.2010</date>
+			<title>Dom</title>
+			<desc>Widok na las</desc>
+			<thumb>outside1.jpg</thumb>
+			<img>outside1.jpg</img>
+		</image>
+		<image>
+			<date>28.12.2010</date>
+			<title>Dom</title>
+			<thumb>outside2.jpg</thumb>
+			<desc>Dom</desc>
+			<img>outside2.jpg</img>
+		</image>
+		<image>
+			<date>28.12.2010</date>
+			<title>Dom</title>
+			<thumb>outside3.jpg</thumb>
+			<desc>Dom</desc>
+			<img>outside3.jpg</img>
+		</image>
+		<image>
+			<date>28.12.2010</date>
+			<title>Dom</title>
+			<thumb>outside4.jpg</thumb>
+			<desc>Dom</desc>
+			<img>outside4.jpg</img>
+		</image>
+
+	</category>
+	<category name="Jadalnia">
+		<image>
+			<date>26.12.2010</date>
+			<title>Jadalnia</title>
+			<desc>Jadalnia</desc>
+			<thumb>dinningroom1.jpg</thumb>
+			<img>dinningroom1.jpg</img>
+		</image>
+		<image>
+			<date>26.12.2010</date>
+			<title>Jadalnia</title>
+			<desc>Jadalnia</desc>
+			<thumb>dinningroom2.jpg</thumb>
+			<img>dinningroom2.jpg</img>
+		</image>
+		<image>
+			<date>26.12.2010</date>
+			<title>Jadalnia</title>
+			<desc>Jadalnia</desc>
+			<thumb>dinningroom3.jpg</thumb>
+			<img>dinningroom3.jpg</img>
+		</image>
+	</category>
+	<category name="Lazienka">
+		<image>
+			<date>26.12.2010</date>
+			<title>Lazienka</title>
+			<desc>Lazienka</desc>
+			<thumb>bath1.jpg</thumb>
+			<img>bath1.jpg</img>
+		</image>
+		<image>
+			<date>26.12.2010</date>
+			<title>Lazienka</title>
+			<desc>Lazienka</desc>
+			<thumb>bath2.jpg</thumb>
+			<img>bath2.jpg</img>
+		</image>
+		<image>
+			<date>26.12.2010</date>
+			<title>Lazienka</title>
+			<desc>Lazienka</desc>
+			<thumb>bath3.jpg</thumb>
+			<img>bath3.jpg</img>
+		</image>
+	</category>
+	<category name="Pokoje">
+		<image>
+			<date>26.12.2010</date>
+			<title>Pokoj</title>
+			<desc>Wnetrze pokoju</desc>
+			<thumb>room1.jpg</thumb>
+			<img>room1.jpg</img>
+		</image>
+		<image>
+			<date>26.12.2010</date>
+			<title>Pokoj</title>
+			<desc>Wnetrze pokoju</desc>
+			<thumb>room2.jpg</thumb>
+			<img>room2.jpg</img>
+		</image>
+		<image>
+			<date>26.12.2010</date>
+			<title>Pokoj</title>
+			<desc>Wnetrze pokoju</desc>
+			<thumb>room3.jpg</thumb>
+			<img>room3.jpg</img>
+		</image>
+		<image>
+			<date>26.12.2010</date>
+			<title>Pokoj</title>
+			<desc>Wnetrze pokoju</desc>
+			<thumb>room4.jpg</thumb>
+			<img>room4.jpg</img>
+		</image>
+	</category>
+</gallery>
